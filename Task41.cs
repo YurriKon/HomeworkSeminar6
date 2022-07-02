@@ -1,6 +1,6 @@
 // Задача 41: Пользователь вводит с клавиатуры M чисел. 
 // Посчитайте, сколько чисел больше 0 ввёл пользователь.
-
+/*
 Console.WriteLine("Сколько чисел Вы хотите ввести?");
 int numberM = Convert.ToInt32(Console.ReadLine());
 int count = 0;
@@ -13,3 +13,4 @@ for (int i = 0; i < numberM; i++)
 }
 Console.WriteLine();
 Console.WriteLine("Введено чисел больше нуля: " + count);
+*/
